@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "To be a salmon"
-description: ""
+description: "Can startups today balance growth and sustainability?"
 tags: [startups]
 modified: 2013-06-30
 image:
@@ -10,39 +10,22 @@ image:
   creditlink: https://dribbble.com/shots/1896582-Workspace
 ---
 
-This is a sample post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+Ask anyone from the Southern parts of India what would sate them professionally in their early fortys and they paint a picture in your head where you imagine them with newspaper in one hand and a coffee in the other as they bask in the early morning sunlight of a Sunday morning, reading propoganda that would arm them with the words to speak at the inexorable water-cooler-conversations that would take place on Monday at work. Most people are content with a 9-5 job where red tape is so common that its presence does not feel alien anymore. Not that I have anything against it; to each his own. 
 
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+Risk-taking is not a trait that is often associated with programmers or product managers in India. This has changed over the last few years with Venture Capitalist money flooding the market. Is the success of past startups in the last 3-5 years a harbinger that attracts more risk-taking individuals or is the backing of Venture money the honeypot for enterpreneurial individuals? It's hard to tell.
 
-## Cupidatat 90's lo-fi authentic try-hard
+There is a growing breed of people willing to quit their jobs to grow a product afresh. Do these people understand the difference between growing a sustainable company Vs forsaking sustainability for temporary land grab and growth? Can they even out quickly if they choose the latter?
 
-In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90's. 
+## Amidst the madness
 
-* Sartorial hoodie 
-* Labore viral forage
-* Tote bag selvage 
-* DIY exercitation et id ugh tumblr church-key
+Swimming upstream against a hoard of peers that were satisfied with the jobs they had, I've often felt like a salmon. This salmon is largely bootstrapped however. There is a madness that appears to have gripped the startup ecosystem that is akin to the `How many eyeballs will this get?` phrase that gripped it back in 2000. I remember conversing with an architect at eBay about a startup of his. This is what he had to say when I asked him about it.
 
-Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.
+> I started working on an idea for cloud computing and outsourced the work to engineers in Delhi. We did a fairly good job getting to a minimum viable product which we showcased to Vinod Khosla, at which point he wanted to know how many eyeballs it would attract. The value of the system like this is of course not directly proportional to eyeballs, but hey that was the craze back then. We never got funded. I think you either had to have the eyeballs or work in the energy sector to attract funding from his Venture.
 
-Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven't heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney's Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.
+Valuations of startups are sky high today. The VC money pouring in is fuelling salaries that are unsustainably high. Considering that workforce salaries are a major part of the burn rate for any company, these red flags are quite alarming. 
 
-## Forage occaecat cardigan qui
+## Where does this converge?
 
-Fashion axe hella gastropub lo-fi kogi 90's aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole. 
+Everyone has been crying `Bubble` for a while now. You could easily juxtapose the metrics around `App installs` and `Monthly active users` with the eyeballs of the year 2000. If a bubble does hit us the companies that rely solely on VC money for operations will probably be hit first, followed by those startups that rely on the business of other startups. Bootstrapped firms will also find the going tough but they can close shop gracefully. Many professionals that are now used to a lifestyle of unsustainable comfort will be rocked by the loss of a job.
 
-> Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.
-
-Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney's next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney's sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.
-
-## Hoodie Duis
-
-Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90's pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.
-
-### Thundercats Ho!
-
-Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney's seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.
-
-Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney's selfies. Odd Future Banksy non authentic.
-
-Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.
+Those that do survive would have either started to turn a profit after spending money on accelerating growth or would have been sustainable to begin with.
