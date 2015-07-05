@@ -10,7 +10,7 @@ image:
   creditlink: https://dribbble.com/shots/1896582-Workspace
 ---
 
-Littered around us are companies valued at several billions of dollars. Money is poured into improving metrics that does not translate to revenue either directly or indirectly.
+Littered around us are companies valued at several billions of dollars. Money is poured into improving metrics that do not translate to revenue either directly or indirectly.
 
 Ask anyone from the Southern parts of India what would sate them professionally in their early fortys and they paint a picture in your head where you imagine them with newspaper in one hand and a coffee in the other as they bask in the early morning sunlight of a Sunday morning, reading propoganda that would arm them with the words to speak at the inexorable water-cooler-conversations that would take place on Monday at work. Most people are content with a 9-5 job where red tape is so common that its presence does not feel alien anymore. Not that I have anything against it; to each their own. 
 
