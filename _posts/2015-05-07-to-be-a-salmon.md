@@ -10,9 +10,11 @@ image:
   creditlink: https://dribbble.com/shots/1896582-Workspace
 ---
 
-Ask anyone from the Southern parts of India what would sate them professionally in their early fortys and they paint a picture in your head where you imagine them with newspaper in one hand and a coffee in the other as they bask in the early morning sunlight of a Sunday morning, reading propoganda that would arm them with the words to speak at the inexorable water-cooler-conversations that would take place on Monday at work. Most people are content with a 9-5 job where red tape is so common that its presence does not feel alien anymore. Not that I have anything against it; to each his own. 
+Littered around us are companies valued at several billions of dollars. Money is poured into improving metrics that does not translate to revenue either directly or indirectly.
 
-Risk-taking is not a trait that is often associated with programmers or product managers in India. This has changed over the last few years with Venture Capitalist money flooding the market. Is the success of past startups in the last 3-5 years a harbinger that attracts more risk-taking individuals or is the backing of Venture money the honeypot for enterpreneurial individuals? It's hard to tell.
+Ask anyone from the Southern parts of India what would sate them professionally in their early fortys and they paint a picture in your head where you imagine them with newspaper in one hand and a coffee in the other as they bask in the early morning sunlight of a Sunday morning, reading propoganda that would arm them with the words to speak at the inexorable water-cooler-conversations that would take place on Monday at work. Most people are content with a 9-5 job where red tape is so common that its presence does not feel alien anymore. Not that I have anything against it; to each their own. 
+
+Risk-taking is not a trait that is often associated with the average joe in India. This has changed over the last few years with Venture Capitalist money flooding the market. Is the success of past startups in the last 3-5 years a harbinger that attracts more risk-taking individuals or is the backing of Venture money the honeypot for enterpreneurial individuals? It's hard to tell.
 
 There is a growing breed of people willing to quit their jobs to grow a product afresh. Do these people understand the difference between growing a sustainable company Vs forsaking sustainability for temporary land grab and growth? Can they even out quickly if they choose the latter?
 
@@ -26,6 +28,6 @@ Valuations of startups are sky high today. The VC money pouring in is fuelling s
 
 ## Where does this converge?
 
-Everyone has been crying `Bubble` for a while now. You could easily juxtapose the metrics around `App installs` and `Monthly active users` with the eyeballs of the year 2000. If a bubble does hit us the companies that rely solely on VC money for operations will probably be hit first, followed by those startups that rely on the business of other startups. Bootstrapped firms will also find the going tough but they can close shop gracefully. Many professionals that are now used to a lifestyle of unsustainable comfort will be rocked by the loss of a job.
+Everyone has been crying `Bubble` for a while now. You could easily juxtapose the metrics around `App installs` and `Monthly active users` with the `eyeballs` of the year 2000. If a bubble does hit us the companies that rely solely on VC money for operations will probably be hit first, followed by those startups that rely on the business of other startups. Bootstrapped firms will also find the going tough but they can close shop gracefully. Many professionals that are now used to a lifestyle of unsustainable comfort will be rocked by the loss of a job.
 
-Those that do survive would have either started to turn a profit after spending money on accelerating growth or would have been sustainable to begin with.
+Those that do survive would have either started to turn a profit after spending money on accelerating growth or would have been sustainable to begin with. Right now we salmons swimming back home. I wonder which ones will make it.
